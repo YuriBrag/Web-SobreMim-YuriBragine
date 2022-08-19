@@ -1,0 +1,8 @@
+.emailLink {
+    margin-top: 15px;
+    display: inline-flex;
+    align-items: center;
+    margin-left: 20px;
+    text-decoration: none;
+    color: inherit;
+}
