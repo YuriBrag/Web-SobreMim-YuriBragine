@@ -1,0 +1,9 @@
+.mainBanner {
+    display: block;
+    background-color: rgb(117, 117, 117);
+    border-radius: 10px;
+    height: 800px;
+    padding: 30px;
+    margin: 10px;
+    text-align: center;
+}

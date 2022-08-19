@@ -1,0 +1,16 @@
+.mainButton {
+    margin-right: 10px;
+    max-height: 20px;
+    display: inline-flex;
+    align-items: center;
+    background-color: rgb(131, 187, 204);
+    box-shadow: 5px 5px #000;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding: 15px;
+    transition: transform 30ms linear;
+}
+.mainButton:hover {
+   transform: scale(1.08);
+   box-shadow: none;
+}

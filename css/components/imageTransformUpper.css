@@ -1,0 +1,10 @@
+.imageTransformUpper {
+    transition: transform 30ms linear;
+}
+.imageTransformUpper:hover {
+    transform: scale(1.07);
+}
+.imageTransformUpper.-perfil{
+    max-height: 80px;
+    max-width: 80px;
+}

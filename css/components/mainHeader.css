@@ -1,0 +1,14 @@
+.mainHeader {
+    display: flex;
+    justify-content: space-between;
+    background-color: #006266;
+    border-bottom: 7px solid #fff;
+    padding: 5px;
+    align-items: center;
+}
+.mainHeader .navigation {
+    display: inline-flex;
+    text-align: right;
+    align-items: center;
+    padding: 10px 20px;
+}
