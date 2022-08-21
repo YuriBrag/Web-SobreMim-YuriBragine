@@ -1,6 +1,6 @@
-.emailLink {
-    margin-top: 15px;
-    display: inline-flex;
+.nameTag {
+    text-align: center;
+    display: flex;
     align-items: center;
     margin-left: 20px;
     text-decoration: none;
