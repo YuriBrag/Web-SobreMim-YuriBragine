@@ -1,0 +1,10 @@
+.aboutMeBox {
+    display: inline-block;
+    line-height: 25px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 5px;
+    background-color: rgb(49, 48, 47);
+    width: 500px;
+    height: 350px;
+}

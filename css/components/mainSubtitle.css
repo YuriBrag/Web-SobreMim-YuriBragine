@@ -3,6 +3,7 @@
     font-size: 30px;
     color: rgb(238, 221, 221);
     align-items: center;
+    margin-top: 10px;
 }
 .mainSubtitle .contacts {
     align-self: center;

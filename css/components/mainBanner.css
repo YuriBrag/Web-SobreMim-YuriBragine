@@ -1,6 +1,7 @@
 .mainBanner {
     display: block;
-    background-image: url("../../assets/img/imgBackground.jpg");
+    background-image: url("../../assets/img/backgroundImage.png");
+    background-size: cover;
     border-radius: 10px;
     height: 700px;
     padding: 30px;
