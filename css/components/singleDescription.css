@@ -2,6 +2,19 @@
     display: inline-block;
     text-align: left;
     color: #fff;
-    font-size: 18px;
+    font-size: 26px;
     margin: 20px;
+}
+.singleDescription .items {
+    display: flex;
+    font-family: 'Alumni Sans Pinstripe', Arial, Helvetica, sans-serif;
+    justify-content: space-evenly;
+    margin-left: 50px;   
+}
+.singleDescription .phrases {
+    display: inline-flex;
+    justify-content: space-evenly;
+    font-family: 'Alumni Sans Pinstripe', Arial, Helvetica, sans-serif;
+    text-align: left;
+    margin-left: 10px;   
 }

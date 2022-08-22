@@ -1,12 +1,11 @@
-.aboutMeBox {
-    display: inline-block;
+.curiositiesBox {
+    display: inline;
     box-shadow: 5px 5px rgba(0, 0, 0, 0.637);
+    line-height: 30px;
     justify-content: space-evenly;
-    line-height: 25px;
     border-radius: 5px;
     margin: 10px;
-    margin-right: 20px;
     background-color: inherit;
-    width: 600px;
+    width: 900px;
     height: 350px;
 }

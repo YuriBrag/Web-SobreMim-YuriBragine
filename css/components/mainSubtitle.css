@@ -1,10 +1,7 @@
 .mainSubtitle {
-    display: inline-flex;
-    font-size: 30px;
+    display: block;
+    font-size: 50px;
     color: rgb(238, 221, 221);
     align-items: center;
     margin-top: 10px;
-}
-.mainSubtitle .contacts {
-    align-self: center;
 }
