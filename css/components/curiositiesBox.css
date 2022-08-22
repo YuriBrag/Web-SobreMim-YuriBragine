@@ -1,11 +1,11 @@
 .curiositiesBox {
     display: inline;
+    background-color: rgb(49, 48, 47);
     box-shadow: 5px 5px rgba(0, 0, 0, 0.637);
     line-height: 30px;
     justify-content: space-evenly;
     border-radius: 5px;
     margin: 10px;
-    background-color: inherit;
     width: 900px;
     height: 350px;
 }

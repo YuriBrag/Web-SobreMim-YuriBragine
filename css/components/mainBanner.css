@@ -2,7 +2,6 @@
     display: flex;
     justify-content: center;
     background-image: url("../../assets/img/backgroundImage.png");
-    background-color: rgb(49, 48, 47);
     background-size: cover;
     border-radius: 10px;
     height: 700px;
