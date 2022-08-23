@@ -1,0 +1,4 @@
+.mainIcons.brilhoEterno:hover {
+    background-image: url("../../assets/img/brilhoEterno.jpg");
+    transform: scale(0);
+}

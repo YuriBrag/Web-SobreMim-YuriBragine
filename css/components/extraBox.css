@@ -1,9 +1,13 @@
 .extraBox {
-    display: block;
+    display: inline;
+    justify-content: space-around;
+    border-radius: 5px;
     padding: 20px;
+    padding-bottom: 0px;
     background-color: rgb(49, 48, 47);
     box-shadow: 5px 5px rgba(0, 0, 0, 0.637);
     margin: 10px;
     margin-top: 0px;
     width: 1500px;
+    height: 300px;
 }
