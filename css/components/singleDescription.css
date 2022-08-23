@@ -8,7 +8,7 @@
 .singleDescription .items {
     display: flex;
     font-family: 'Alumni Sans Pinstripe', Arial, Helvetica, sans-serif;
-    justify-content: space-evenly;
+    justify-content: left;
     margin-left: 50px;   
 }
 .singleDescription .phrases {
